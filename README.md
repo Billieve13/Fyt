@@ -4,6 +4,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Clone the Repo!
 ```sh 
+https://github.com/Billieve13/Fyt.git
+
+cd Fyt
+
+Code .
 
 ## Get started
 1. Install VS Code (https://code.visualstudio.com/)
