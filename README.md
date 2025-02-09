@@ -4,25 +4,23 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 1. Install VS Code
-   
-2. Open your command line prompt, preferrably bash
-
-3. Create a folder for the project- Fyt
-
-    
-4. Install dependencies
-   ```bash
-   Ensure you are running at least version 12 of Node
-   ```
-   
    ```bash
    VS Code Extension Recommendations:
       - React-Native Tools
       - Expo Tools
    ```
-     
-   ```bash
+
+    ```bash
    Download Expo Client for your phone
+   ```
+    
+2. Open your command line prompt, preferrably bash
+
+3. Create a folder for the project- Fyt (mkdir Fyt)
+
+4. Install dependencies
+   ```bash
+   Ensure you are running at least version 12 of Node (Node -v / Node -version)
    ```
       
    ```bash
