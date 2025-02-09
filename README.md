@@ -31,7 +31,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 5. Start the app
 
    ```bash
-    npx expo start
+    npx expo start (use --tunnel if you have issues initially connecting the app to Expo Client on your phone)
    ```
 
 In the output, you'll find options to open the app in a
