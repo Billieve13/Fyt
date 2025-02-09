@@ -1,18 +1,18 @@
-# Welcome to your Expo app 👋
+# Welcome to Fyt!! 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-1. Install VS Code
+1. Install VS Code (https://code.visualstudio.com/)
    ```bash
    VS Code Extension Recommendations:
       - React-Native Tools
       - Expo Tools
    ```
 
-2. Install Expo Client
+2. Install Mobile Expo Client
    ```bash
-   Download Expo Client for your phone
+   Download Expo Client on your phone
    ```
     
 3. Open your command line prompt, preferrably bash
