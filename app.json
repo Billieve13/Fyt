@@ -4,16 +4,21 @@
     "slug": "Fyt",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/Hive.jpeg",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "splash":{
+      "image": "./assets/images/Hive.jpeg",
+      "resizeMode": "cover",
+      "backgroundColor": "#00000"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/Hive.jpeg",
         "backgroundColor": "#ffffff"
       }
     },
@@ -27,10 +32,9 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "image": "./assets/images/Hive.jpeg",
+          "resizeMode": "cover",
+          "backgroundColor": "#00000"
         }
       ]
     ],
