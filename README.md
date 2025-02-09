@@ -51,13 +51,17 @@ https://github.com/Billieve13/Fyt.git
    ```bash
    in the Fyt folder, type Code . and press enter to automatically open VS Code 
    ```
-•	npx create-expo-app@latest 
-7. Start the app
 
+7. Start the app
    ```bash
     npx expo start (use --tunnel if you have issues initially connecting the app to Expo Client on your phone)
    ```
 
+7. Open the app in Expo Client
+   ```bash
+   Scan the QR code from VS code to open the application on your mobile device
+   ```
+   
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
