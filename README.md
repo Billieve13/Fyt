@@ -16,9 +16,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
     
 3. Open your command line prompt, preferrably bash
-
-3. Create a folder for the project- Fyt (mkdir Fyt)
-
+   ```bash
+   Create a folder for the project- Fyt (mkdir Fyt)
+   ```
+   
+   ```bash
+   change directories to the Fyt folder (cd Fyt)
+   ```
+   
 4. Install dependencies
    ```bash
    Ensure you are running at least version 12 of Node (Node -v / Node -version)
