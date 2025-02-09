@@ -1,21 +1,67 @@
-# Welcome to your Expo app 👋
+# Welcome to Fyt!! 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Clone the Repo!
+If you already are familiar with React-Native, just clone the repo below and get started!
+
+```bash
+https://github.com/Billieve13/Fyt.git
+```
+
 ## Get started
-
-1. Install dependencies
-
+1. Install VS Code (https://code.visualstudio.com/)
    ```bash
-   npm install
+   VS Code Extension Recommendations:
+      - React-Native Tools
+      - Expo Tools
    ```
 
-2. Start the app
-
+2. Install Mobile Expo Client
    ```bash
-    npx expo start
+   Download Expo Client on your phone
+   ```
+    
+3. Open your command line prompt, preferrably bash
+   ```bash
+   Create a project folder - Fyt (mkdir Fyt)
+   ```
+   
+   ```bash
+   change directories to the Fyt folder (cd Fyt)
+   ```
+   
+4. Install dependencies
+   ```bash
+   Ensure you are running at least version 12 of Node (Node -v / Node -version)
+   ```
+      
+   ```bash
+   npm install -g expo -CLI
    ```
 
+5. Start a React-Native App
+   ```bash
+   in the Fyt folder, npx create-expo-app@latest
+
+   Follow the prompts 
+   ```
+
+6. Open the app in VS Code
+   ```bash
+   in the Fyt folder, type Code . and press enter to automatically open VS Code 
+   ```
+
+7. Start the app
+   ```bash
+    npx expo start (use --tunnel if you have issues initially connecting the app to Expo Client on your phone)
+   ```
+
+7. Open the app in Expo Client
+   ```bash
+   Scan the QR code from VS code to open the application on your mobile device
+   ```
+   
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
