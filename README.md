@@ -3,14 +3,12 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Clone the Repo!
+If you already are familiar with React-Native, just clone the repo below and get started!
+
 ```sh 
 https://github.com/Billieve13/Fyt.git
 
-cd Fyt
-
-Code .
-
-### Get started
+## Get started
 1. Install VS Code (https://code.visualstudio.com/)
    ```bash
    VS Code Extension Recommendations:
