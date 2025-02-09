@@ -17,7 +17,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     
 3. Open your command line prompt, preferrably bash
    ```bash
-   Create a folder for the project- Fyt (mkdir Fyt)
+   Create a project folder - Fyt (mkdir Fyt)
    ```
    
    ```bash
