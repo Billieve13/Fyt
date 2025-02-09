@@ -40,7 +40,7 @@ https://github.com/Billieve13/Fyt.git
    npm install -g expo -CLI
    ```
 
-5. Open the app in VS Code
+5. Start a React-Native App
    ```bash
    in the Fyt folder, npx create-expo-app@latest
 
