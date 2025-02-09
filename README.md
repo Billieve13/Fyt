@@ -3,8 +3,14 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+1. Install VS Code
+   
+2. Open your command line prompt, preferrably bash
 
-1. Install dependencies
+3. Create a folder for the project- Fyt
+
+    
+4. Install dependencies
    ```bash
    Ensure you are running at least version 12 of Node
    ```
@@ -23,7 +29,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install -g expo -CLI
    ```
 
-1. Start the app
+5. Start the app
 
    ```bash
     npx expo start
