@@ -40,7 +40,19 @@ https://github.com/Billieve13/Fyt.git
    npm install -g expo -CLI
    ```
 
-5. Start the app
+5. Open the app in VS Code
+   ```bash
+   in the Fyt folder, npx create-expo-app@latest
+
+   Follow the prompts 
+   ```
+
+6. Open the app in VS Code
+   ```bash
+   in the Fyt folder, type Code . and press enter to automatically open VS Code 
+   ```
+•	npx create-expo-app@latest 
+7. Start the app
 
    ```bash
     npx expo start (use --tunnel if you have issues initially connecting the app to Expo Client on your phone)
