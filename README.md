@@ -10,7 +10,7 @@ cd Fyt
 
 Code .
 
-## Get started
+### Get started
 1. Install VS Code (https://code.visualstudio.com/)
    ```bash
    VS Code Extension Recommendations:
