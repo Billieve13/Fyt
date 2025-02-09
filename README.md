@@ -10,11 +10,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
       - Expo Tools
    ```
 
-    ```bash
+2. Install Expo Client
+   ```bash
    Download Expo Client for your phone
    ```
     
-2. Open your command line prompt, preferrably bash
+3. Open your command line prompt, preferrably bash
 
 3. Create a folder for the project- Fyt (mkdir Fyt)
 
