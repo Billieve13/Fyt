@@ -14,12 +14,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
       - React-Native Tools
       - Expo Tools
    ```
+     
+   ```bash
+   Download Expo Client for your phone
+   ```
       
    ```bash
    npm install
    ```
 
-2. Start the app
+1. Start the app
 
    ```bash
     npx expo start
